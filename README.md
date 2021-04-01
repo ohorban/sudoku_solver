@@ -10,4 +10,4 @@ After running `sudoku.java` a window opens where you can enter the values of the
 <img src=pics/entered.jpg />
 <br /> And after pressing Solve a new window should be opened with the answers to your sudoku puzzle: <br />
 <img src=pics/solved.jpg /> <br />
-<br /> The algorithm for solving the sudoku uses a backtracking algorithm that recursively illiminates the solutions that fail to saitisfu the suku requirments (repeating numbers in colums, rows and diagonals)
+<br /> The algorithm for solving the sudoku uses a backtracking algorithm that recursively illiminates the solutions that fail to saitisfy the sudoku requirments (repeating numbers in colums, rows and diagonals)
